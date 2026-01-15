@@ -1,6 +1,6 @@
 ---
 layout: post
-category: engineering
+category: personal
 slug: hr example
 title: A Title with Mixed Cases and an HR
 ---

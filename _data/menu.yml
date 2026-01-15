@@ -12,15 +12,15 @@ entries:
   - title: Engineering
     post_list:
       category: engineering
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: engineering-archive.html
+      show_more_url: archive.html
 
   - title: Personal
     post_list:
       category: personal
-      limit: 5
+      limit: 2
       show_more: true
       show_more_text: See more posts...
-      show_more_url: personal-archive.html
+      show_more_url: archive.html
