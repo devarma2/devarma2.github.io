@@ -1,6 +1,6 @@
 ---
 layout: post
-category: engineering
+category: example
 custom_js: mouse_coords
 ---
 
