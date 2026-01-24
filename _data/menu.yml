@@ -9,18 +9,18 @@ entries:
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: Engineering
+  - title: Blog
     post_list:
-      category: engineering
+      category: blog
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: engineering-archive.html
+      show_more_url: blog-archive.html
 
-  - title: Personal
+  - title: Projects
     post_list:
-      category: personal
-      limit: 2
+      category: projects
+      limit: 3
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: personal-archive.html
+      show_more_text: See more projects...
+      show_more_url: projects-archive.html
